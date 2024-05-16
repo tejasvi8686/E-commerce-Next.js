@@ -17,7 +17,6 @@ Build a modern and performant full stack Next.js 14 Ecommerce Website complete w
 - Sanity.io
 - Stripe
 - Shadcn/UI
-- Use Shopping Cart
 - Tailwind CSS
 
 
